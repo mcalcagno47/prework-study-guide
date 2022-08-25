@@ -7,8 +7,8 @@ header,
 footer {
     width: 100%;
     height: 120px;
-    background-color: blue;
-    color: white;
+    background-color: rgba(15, 15, 155, 0.719);
+    color: rgb(255, 255, 255);
 }
 
 h1,
@@ -22,6 +22,7 @@ img {
     width: 50px;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 8px;
 }
 
 ul {
@@ -37,7 +38,7 @@ p {
   .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid gray;
+    border: 5px solid rgb(102, 102, 102);
     box-shadow: 5px 10px #888888;
   }
   
